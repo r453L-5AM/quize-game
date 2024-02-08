@@ -12,7 +12,7 @@ else:
     print("You have entered an invalid input.")
 
 
-
+ 
 if i == 7:
     ans1=input("1.What is the capital of France?\na. Rome\nb. Berlin\nc. Paris\nd. Madrid\n>")
     if ans1 == 'c':
