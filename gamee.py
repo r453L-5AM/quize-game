@@ -85,4 +85,6 @@ if i == 7:
         point010=0
         print("you have got = "+str(point010)+ " points\n")
 
+        print("Thank you for you perticipation.")
+
 
